@@ -35,4 +35,7 @@ After creating a scatter plot of data, I found that there was no significant ass
 In order to solve this dilemma, state governments could consider increasing the funding for high-schools and safety programs in order to educate the children to make better choices. The state government has a spending budget of $3.8 billion and several millions are labeled as "unallocated funds". By pushing for reform in order to get more money spent on improving the education of children, the school to prison pipeline can be reduced. Increased funding programs has seen some success with Atlanta as well, and following a similar plan can seek fruition.
 
 
+# Sources
+[Baltimore Spending](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-baltimore-budget-20200616-udg2jon66jhphotifygip2ikzu-story.html)
+[Increased School Funding](https://www.chalkbeat.org/2019/8/13/21055545/4-new-studies-bolster-the-case-more-money-for-schools-helps-low-income-students#:~:text=A%202018%20overview%20of%20the,even%20higher%20wages%20as%20adults.&text=%E2%80%9CAll%20four%20studies%20find%20that,student%20outcomes%2C%E2%80%9D%20said%20Jackson.)
 
