@@ -1,12 +1,38 @@
 # comparing-highschool-gradrate
 Comparing the graduation rate of Philadelphia, PA to Baltimore, MD.
 
-The initial problem statement I chose to delve into the differences in High-School Graduation Rate between Baltimore, MD and Philadelphia, PA. While investigating the data set, I used the greater Philadelphia area as the specific city itself lacked data sets. 
+After investigating the differences between Baltimore, MD and Philadelphia, PA I choose to look at high school Graduation Rates. While investigating the data set, I used the greater Philadelphia area as the specific city itself lacked data sets. 
 https://www.opportunityatlas.org/
 https://foxbaltimore.com/news/local/looking-at-the-correlation-between-crime-and-education
+# Initial Questions
+My initial thoughts led me to my questions on the high school graduation rate between these two cities.
+How do the high school graduation rates in Baltimore, MD and Philadelphia, PA differ? 
+A follow up question could also include,
+What metrics should the government measure to monitor the reason for varying graduation rates between the cities?
 
-How can state governments know if their graduation rate is a problem with the entire city or just specific areas and what metrics should the government measure to monitor the reason for varying graduation rates between cities? Can the problem be attributed to increased crime?
+# Background
 
-After reading an article regarding crime rates and graduation, many articles seemed to indicate a strong correlation between crime and lower graduation rates. I was interested to compare the graduation rates first between Philadelphia and Baltimore. After downloading the data from opportunity atlas, I found that most of the graduation rates were similar except for one specific area of Baltimore CIty where it was around 77%. Noticing that this City was in the heart of Baltimore, I considered if the incarceration rate could be attributed to crime. After creating a scatter plot of data, I found that there was really no association between specifically crime and incarceration rates, contrary to the articles I read. The only final conclusion was that the higher incarceration rates can be attributed to the area located rather than lack of high school education.
+After reading an article regarding crime rates and graduation, many articles seemed to indicate a strong correlation between crime and lower graduation rates. I was interested to compare the graduation rates first between Philadelphia and Baltimore. After downloading the data from opportunity atlas, I found that most of the graduation rates were similar except for one specific area of Baltimore CIty where it was around 77%. Noticing that this City was in the heart of Baltimore, I considered if the incarceration rate could be attributed to crime. 
 
-For the High School Graduation Rates, I downloaded the Data from opportunity atlas and filtered to the counties and area that I wanted in the specific area of the city. After creating a pivot table that displayed the High School Graduation Rates as an average and making the graph, I could display the comparison of values. By using =Quartile function I could determine that Baltimore City, MD was an outlier in the data and I chose to investigate it further. For the Incarceration Rates I followed a similar process to make the bar graphs and color coded the PA counties to Orange and the Baltimore to be Blue. This graph clearly depicted a stark difference in Incarceration Rates. I combined the two data sets together and plotted them on a scatter plot in order to identify if there was a correlation between low graduation Rates and High incarceration rates. Excluding the single outlier, the graduation rates were similar yet led to very different incarceration rates. This can be attributed to a difference in social and economic standing as well as surrounding conditions. In order to solve this dilemma, state governments could consider shifting more high schools away from the crime-dense counties in Baltimore. Due to the upstanding conditions of crime in certain areas, by shifting school districs to relocate in more peaceful areas, the graduation can remain unhindered. Governments may also try to allocate more funds into dealing with the more problematic counties rather than handle the entire scity as a whole.
+# Analysis
+
+
+For the High School Graduation Rates, I downloaded the Data from opportunity atlas and filtered to the counties and area that I wanted in the specific area of the city. After creating a pivot table that displayed the High School Graduation Rates as an average and making the graph, I could display the comparison of values. By using =Quartile function I could determine that Baltimore City, MD was an outlier in the data and I chose to investigate it further. 
+
+![image](https://user-images.githubusercontent.com/78445017/117598302-88a6e280-b115-11eb-8530-c54e38babebb.png)
+
+
+For the Incarceration Rates I followed a similar process to make the bar graphs and color coded the PA counties to Orange and the Baltimore to be Blue. This graph clearly depicted a stark difference in Incarceration Rates. I combined the two data sets together and plotted them on a scatter plot in order to identify if there was a correlation between low graduation Rates and High incarceration rates. Excluding the single outlier, the graduation rates were similar yet led to very different incarceration rates. This can possibly be attributed to a difference in social and economic standing as well as surrounding conditions.
+![image](https://user-images.githubusercontent.com/78445017/117598378-b55afa00-b115-11eb-9e68-c21e6207f6b4.png)
+
+
+After creating a scatter plot of data, I found that there was no significant association between crime and incarceration rates, contrary to the articles I read. The only final conclusion was that the higher incarceration rates can be attributed to the area located rather than lack of high school education.
+![image](https://user-images.githubusercontent.com/78445017/117598632-2ef2e800-b116-11eb-9a95-57a7dd0e7bdb.png)
+
+
+# Solutions
+
+In order to solve this dilemma, state governments could consider increasing the funding for high-schools and safety programs in order to educate the children to make better choices. The state government has a spending budget of $3.8 billion and several millions are labeled as "unallocated funds". By pushing for reform in order to get more money spent on improving the education of children, the school to prison pipeline can be reduced. Increased funding programs has seen some success with Atlanta as well, and following a similar plan can seek fruition.
+
+
+
